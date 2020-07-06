@@ -1,3 +1,7 @@
+# Inheritance
+
+# The the child class will inherit all attributes and functionalities from the parent class
+
 
 class Student_data:
 
